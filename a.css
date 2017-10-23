@@ -1,0 +1,36 @@
+header {
+    position: relative;
+}
+.shopping-mall{
+    position: absolute;
+    bottom: 20px;
+    font-variant: small-caps;
+}
+
+.shopping-mall>h1{
+    font-size: 50px;
+    color: #4B4B4B;
+    letter-spacing: 0.3px;
+    padding-bottom: 0px;
+    margin-left: 90px;
+}
+h2,h1{
+    color: #4f4f4f;
+}
+h2, h4{
+    font-family: Arial;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #4b4b4b;
+}
+body{
+    background-color: #efefef;
+}
+input{
+    background-color: #398adc;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }  
